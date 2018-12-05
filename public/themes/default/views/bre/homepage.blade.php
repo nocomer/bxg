@@ -502,7 +502,7 @@
                             <li class=" text-center u-item">
                                 <div class="">
                                     <a target="_blank" href="{{url($v6['content'])}}">
-                                        <img src="{{url($v6['pic'])}}" alt="kppw">
+                                        <img src="{{url($v6['pic'])}}" alt="NoCome">
                                     </a>
                                 </div>
                             </li>
