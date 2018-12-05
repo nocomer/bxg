@@ -1,0 +1,314 @@
+/* 头部 */
+a{
+	color: #282828;
+}
+.text-primary{
+    color: #282828;
+}
+a:hover, a:active, a:focus {
+	color: #282828;
+}
+.hov-corblue2f:hover {
+    color: #282828;
+}
+.hov-bgorg88:hover {
+    background-color: #282828;
+}
+.hov-bggryb0:hover {
+    background-color: #282828;
+}
+.bg-blue{
+	/*按钮背景颜色*/
+    background-color: #282828;
+}
+.bg-orange{
+    background-color: #282828;
+}
+.cor-blue167 {
+    /*链接颜色*/
+    color: #282828;
+}
+.cor-blue2f {
+    color: #282828!important;
+}
+.cor-blue {
+    color: #282828;
+}
+.btn-blue {
+    background-color: #282828 !important;
+    border-color: #282828;
+}
+.btn-primary, .btn-primary:focus{
+    background-color:#282828!important;
+    border-color:#282828;
+}
+.btn-white.btn-primary {
+    border-color:#282828;
+    color: #282828!important;
+}
+.g-headertop a:hover {
+    color: #282828;
+}
+.g-headertop .g-taskbardown1 a {
+ 	color: #282828;
+}
+.g-tasksearch button{
+ 	background: #282828;
+}
+.g-tasksearch {
+    border: 3px solid #282828;
+    border-radius: 3px;
+    height: 41px;
+}
+.g-tasknavdrop{
+    background: #282828;
+}
+#nav .sub li:hover a:hover {
+    color:#282828;
+}
+.g-subshow div{
+	color: #282828;
+}
+.g-taskbarnav .g-tasknavbtn{
+	background: url('../../images/navbtnbg.png') no-repeat 0 9px;
+}
+.g-taskbarnav .g-tasknavbtn .u-ahref {
+	background: #282828;
+}
+.g-taskbarnav .banner-r .tab-bot a{
+	color: #282828;
+}
+.btn-primary:active, .btn-primary:hover{
+    background-color: #282828!important;
+    border-color:#282828!important;
+}
+.g-taskbarnav a:hover {
+    color: #282828;
+    /*text-decoration: none;*/
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover{
+    background-color: #282828;
+    border-color:#282828;
+}
+.g-subshow {
+    border: 1px solid #282828;
+    border-left: none;
+}
+.tabbable .nav-tabs>li>a:hover{
+    color: #23527c;
+}
+.g-taskbarnav .g-tasknavbtn .u-ahref:hover {
+    background-color: #282828;
+}
+/* 头部header-top */
+.header-top{
+    background-color: #282828;
+}
+.g-taskbarnav {
+    border-bottom: 2px solid #282828;
+}
+@media screen and (max-width: 991px) {
+
+    .navbar {
+        background-color: #282828;
+    }
+}
+
+/* top */
+/*.go-top .u-hov{
+	 background-image: url(../../images/go-top.png?);
+}*/
+
+/* footer */
+.footer .g-address a:hover{
+    color: #282828;
+ }
+
+/* main */
+.pagination>li.active>a {
+	background-color: #282828;
+	border-color: #282828;
+}
+/* index */
+nav .g-taskbarnav .nav-tabs .z-tit1{
+	 border-bottom: 2px solid #282828;
+}
+.g-servicer li .u-index:hover h4 a{
+    color: #282828;
+}
+.g-info .f-pd:hover .u-infowrap a{
+    color: #282828;
+}
+.g-servicer .g-servicer-wrap1{
+    border-top:2px solid #282828;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+
+    border-bottom: 2px solid #282828;
+}
+
+
+
+/* taskindex */
+.g-taskclassify .bg-blue{
+	background: #282828;
+}
+/* taskcommon */
+.wizard-steps li.active .step, .wizard-steps li.active:before{
+    border-color: #282828;
+    background: #282828;
+}
+.tasknav .badge{
+    background-color: #282828!important;
+}
+.tasktitle{
+    border-left: 2px solid #282828;
+}
+.tasknav .nav-tabs>li>a:hover{
+    color: #282828;
+}
+
+/* issuetask */
+
+section .poster .wizard-steps li.active .step,section .poster .wizard-steps li.active:before,section .poster .wizard-steps li.complete .step,section .poster .wizard-steps li.complete:before{
+    background: #282828;
+    border-color: #282828;
+}
+.task-r .task-select>a:hover{
+    border:2px solid #282828;
+    color: #282828;
+}
+.task-r .task-select>.z-bule{
+    border:2px solid #282828;
+    color: #282828;
+}
+.task-bar>a{
+    background: #282828;
+    border: 1px solid #282828;
+}
+.widget-box .btn-info{
+    background: #282828!important;
+    border-color:#282828;
+}
+.tab-content .wizard-steps li.active .title,.tab-content .wizard-steps li.complete .title{
+    color:#282828;
+}
+.task-r .task-tit span{
+     color:#282828;
+}
+.taskDetails .f-tab{
+    border-color:#282828 ;
+}
+.taskDetails .nav-tabs>.f-trubtn.active>a, .nav-tabs>.f-trubtn.active>a:focus, .nav-tabs>.f-trubtn.active>a:hover{
+    border-color: #282828 #282828 transparent;
+    border-top: 2px solid #282828;
+    color:#282828;
+}
+/* serivceCase */
+.personal-case-list, .personal-evaluate-detail{
+	color: #282828;
+}
+.personal-active{
+	color: #282828;
+	border-bottom: 2px solid #282828;
+}
+/* case */
+.case-classify-well .nav>.active>a{
+	background-color: #282828;
+}
+.case-search-list .nav-pills>li.active>a, .case-search-list .nav-pills>li.active>a:focus, .case-search-list .nav-pills>li.active>a:hover{
+
+	color: #337ab7;
+}
+.case-list-item .case-list-item-name a:hover,.case-list-item-admin-info p:hover{
+	color: #282828;
+}
+
+/* footerLink */
+.help-center-answers h3{
+	color: #282828;
+}
+a.footer-link-list-item-active{
+	color: #337ab7;
+	border-left: 5px solid #282828;
+}
+.help-center-list h3{
+	color: #282828;
+}
+
+/*sign*/
+.allbtn{
+    background: #282828!important;
+    border-color: #282828;
+}
+.loginmain .wizard-steps li.active .step{
+    border-color: #282828;
+    background: #282828;
+}
+.loginmain .wizard-steps li.active .title{
+    color:#282828;
+}
+.login-box .btn-primary:active,.login-box .btn-primary:hover,.login-box .open .btn-primary.dropdown-toggle{
+    border-color: #282828;
+}
+.loginmain .wizard-steps li.active .step,.loginmain .wizard-steps li.active:before{
+    border-color:#282828;
+}
+.loginmain-container .inline .lbl:hover {
+    color: #282828;
+}
+.g-signmain .loginmain .s-logintit{
+     border-left:3px solid #282828 ;
+}
+.loginmain .wizard-steps li.active .title{
+    color:#282828;
+}
+input[type=checkbox].ace+.lbl::before, input[type=radio].ace+.lbl::before{
+    color: #282828;
+}
+.input-icon>input:focus+.ace-icon{
+    color: #282828;
+}
+
+/* im */
+.im .im-side{
+    background: #282828;
+}
+.im-side1 .im-side1-list3 .im-btn{
+    background: #282828!important;
+}
+.im-side2 .im-side1-list1{
+    background: #282828;
+}
+.im-side2 .im-side1-list3{
+    background: #282828;
+}
+
+.z-navHome{
+    color:#282828!important; 
+}
+
+.nav-dex .u-navitem a:hover,.nav-dex .g-subshow a:hover {
+    color:#282828!important ;
+}
+
+.g-copyright {
+    color: #282828;
+    border: 1px solid #282828;
+}
+
+.needs-sidebar .needs-sidebar-wrap .wrap4 a:hover {
+    border-color:#282828;
+    background-color:#282828;
+    color: #fff;
+}
+
+.answerlist-btn {
+    color: #282828;
+    border: 1px solid #282828;
+}
+.answerlist-btn:hover {
+    color: #fff;
+    border: 1px solid #282828;
+    background-color:#282828;
+}
